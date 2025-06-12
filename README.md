@@ -1,4 +1,11 @@
-## Hi there 👋
+### 🕶️ Vishal Panda
+
+Cybersecurity @ VIT Bhopal  
+Hack for fun 🧨 | Build tools when I’m bored 😴  
+TryHackMe addict ⚔️ | CTF enjoyer 🧠 | Logs? Love 'em.  
+Currently breaking stuff (legally) and blaming it on Nmap.
+
+> “If it runs, I can recon it.”
 
 <!--
 **Rolexx90/Rolexx90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
